@@ -1,0 +1,87 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #f9fbfd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 600px;
+}
+
+header {
+  text-align: center;
+  color: #0056b3;
+  margin: 40px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+.card-header {
+  padding: 20px;
+  text-align: center;
+  border-bottom: 2px solid #eee;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-footer {
+  padding: 20px;
+  text-align: center;
+  border-top: 2px solid #eee;
+}
+
+.btn {
+  border: none;
+  background-color: #007bff;
+  border-radius: 12px;
+  color: #fff;
+  font-size: 16px;
+  padding: 12px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+#password {
+  width: 100%;
+  min-height: 100px;
+  padding: 16px;
+  font-size: 16px;
+  text-align: center;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+  resize: none;
+  overflow: hidden;
+}
+
+@media (max-width: 600px) {
+  .card {
+    border-radius: 0;
+    box-shadow: none;
+  }
+}
