@@ -8,6 +8,8 @@ _Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web 
 
 This is a simple password generator tool that allows users to generate secure passwords based on their preferences for length and character types.
 
+![Screenshot 2024-04-19 012934](https://github.com/EGARRISXN/password-generator/assets/126130230/500f3934-e61f-469b-88bc-43043f9d0ba9)
+
 ## Getting Started
 
 To use the password generator, follow these steps:
