@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-_Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web Development Bootcamp._
+_Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
 ## Description
 
@@ -49,4 +49,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Questions
 
-Feel free to reach out to me here on [GitHub](https://github.com/EGARRISXN), or directly via email at egarrisxn@gmail.com if you have any questions.
+Feel free to reach out to me via [GitHub](https://github.com/EGARRISXN), or email at egarrisxn@gmail.com.
