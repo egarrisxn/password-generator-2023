@@ -18,8 +18,6 @@ To use the password generator, follow these steps:
 2. Open the `index.html` file in your web browser.
 3. Let the password creating begin!
 
-## Usage
-
 ### Parameters
 
 - **Password Length:** You can choose the length of your password, ranging from 8 to 64 characters.
