@@ -12,9 +12,10 @@ This simple password generator tool allows users to generate secure passwords ba
 
 ## Technologies
 
-- **Javascript**: Programming language used for client-side and server-side scripting.
+- **JavaScript**: Programming language used for client-side and server-side scripting.
 - **HTML5**: The latest version of Hypertext Markup Language.
 - **CSS3**: Cascading style sheets for styling HTML elements.
+- **GitHub Pages**: Used to host and deploy the application.
 
 ## Installation
 
