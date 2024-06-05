@@ -8,7 +8,7 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 
 This simple password generator tool allows users to generate secure passwords based on their preferences for length and character types.
 
-![passwordgenerator](https://github.com/egarrisxn/password-generator/assets/126130230/314309be-2973-44d1-9295-97663537ab23)
+![password2](https://github.com/egarrisxn/password-generator/assets/126130230/e87112ba-c543-4f47-9424-5459adcf4032)
 
 ## Technologies
 
