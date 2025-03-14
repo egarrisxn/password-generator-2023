@@ -1,15 +1,14 @@
 # Password Generator 2023
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/password-generator-2023)
-
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
+
+![password2](https://github.com/egarrisxn/password-generator/assets/126130230/e87112ba-c543-4f47-9424-5459adcf4032)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/password-generator-2023)
 
 ## Description
 
 This simple password generator tool allows users to generate secure passwords based on their preferences for length and character types.
-
-![password2](https://github.com/egarrisxn/password-generator/assets/126130230/e87112ba-c543-4f47-9424-5459adcf4032)
-
 ## Technologies
 
 - **JavaScript**: Programming language used for client-side and server-side scripting.
